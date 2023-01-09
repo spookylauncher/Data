@@ -1,1 +1,1 @@
-Beta 1.7.1:::https://raw.githubusercontent.com/MrOnran/MarifLauncher/data/versions/b1.7.1.zip:::https://raw.githubusercontent.com/MrOnran/MarifLauncher/data/versions/descriptions/b1.7.1.txt:::1:::0
+Beta 1.7.1:::1:::0
