@@ -2,3 +2,4 @@ Beta 1.7.1;Start;2;0
 Alpha 1.2.3_03;rl;4;0
 Alpha 1.0.17_04;net.minecraft.client.Minecraft;5;0
 HIM;Start;5;0
+ERROR422;net.minecraft.client.Minecraft;7;0
