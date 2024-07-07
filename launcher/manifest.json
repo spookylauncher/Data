@@ -1,5 +1,6 @@
 {
   "manifestVersion": 0,
+  "repo": "https://raw.githubusercontent.com/Onran0/SpookyLauncher/main/launcher",
   "versions":
   [
      {
@@ -7,9 +8,8 @@
         "file": "",
         "managerType": 0,
         "manager": "",
-        "previews": [
-            "https://raw.githubusercontent.com/Onran0/SpookyLauncher/main/launcher/previews/Alpha 1.2.3_03/preview_1.png"
-        ]
+        "section": "Alpha 1.2.3_03",
+        "previewsCount": 2
      }
   ]
 }
