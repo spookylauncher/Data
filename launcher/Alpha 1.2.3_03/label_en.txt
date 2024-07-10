@@ -1,11 +1,1 @@
-After a while, loss of health may occur, and if you do not satisfy your hunger when the script is triggered again, you will die. In addition, items from the inventory may randomly disappear, which can interfere with survival. The player may unexpectedly get set on fire, which may make survival more difficult. Sometimes the sound of any entity can be played in the world, even though there is no sound in the version.
-
-If you play for a long time, record 13 may play. There are many structures in the version that can appear randomly. Among them we can highlight:
-
-Crosses made of bedrock, cobblestone, mossy cobblestone, netzerak and obsidian.
-An ignited pillar made of netzerak, 2 blocks high.
-Netherak with a "NULL" sign.
-Red torches or dust.
-Sand pyramid.
-Blocks of lava or water.
-After quite a long time of researching the version, Herobrine may appear in the world. His appearance is accompanied by an incomprehensible hissing, and Herobrine himself appears in the distance. If you get within 15 blocks of it, it will disappear and a glitch with a loud sound will follow. After playing this sound, all textures may turn purple or noise will be applied to them. The drawing will automatically become distant. If you go to the main menu, you will notice that the splash has changed to a hex code, which stands for "prisma". If you continue to play in the world, after a while a “bloody” glitch may occur, due to which the window will blink red. After exiting the version, the glitch will disappear and all scripts will be rolled back.
+Alpha 1.2.3_03 - is the very first playable mystical version of Minecraft, which appeared in 2019. The version was the most discussed in the field of mysticism, players built a lot of theories on it.
