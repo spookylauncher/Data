@@ -11,6 +11,7 @@
             "en": "https://minecraftcreepypasta.fandom.com/wiki/Alpha_1.2.3_03",
             "fallback": "https://minecraftcreepypasta.fandom.com/ru/wiki/Alpha_1.2.3_03"
          },
+         "previewsCount": 2,
          "labels": [ "en" ],
          "managerMeta": {
             "main": "rl",
