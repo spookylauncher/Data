@@ -1,22 +1,5 @@
 {
   "manifestVersion": 0,
   "repo": "https://raw.githubusercontent.com/Onran0/SpookyLauncher/main/launcher/",
-  "versions":
-  [
-     {
-        "name": "Alpha 1.2.3_03",
-        "developer": "Pseudocactus",
-        "releaseDate": "2019/10/19",
-        "articles": {
-            "en": "https://minecraftcreepypasta.fandom.com/wiki/Alpha_1.2.3_03",
-            "fallback": "https://minecraftcreepypasta.fandom.com/ru/wiki/Alpha_1.2.3_03"
-         },
-         "previewsCount": 2,
-         "labels": [ "en" ],
-         "controllerData": {
-            "main": "rl",
-            "classPath": "Minecraft.jar"
-         }
-     }
-  ]
+  "versions": [ "Alpha 1.2.3_03" ]
 }
