@@ -5,7 +5,9 @@
         "majorVersion": 8,
         "fullName": "8u422b05",
         "downloads": {
-            "windows": "https://cdn.azul.com/zulu/bin/zulu8.80.0.17-ca-jre8.0.422-win_x64.zip"
+            "windows": "https://cdn.azul.com/zulu/bin/zulu8.80.0.17-ca-jre8.0.422-win_x64.zip",
+            "linux": "https://cdn.azul.com/zulu/bin/zulu8.80.0.17-ca-jre8.0.422-linux_x64.zip",
+            "macos": "https://cdn.azul.com/zulu/bin/zulu8.80.0.17-ca-jre8.0.422-macosx_x64.zip"
         }
       }
   ]
