@@ -9,7 +9,7 @@
    "previewsCount": 2,
    "categories": [ "alpha" ],
    "labels": [ "en" ],
-   "controllerData": {
+   "launchData": {
        "main": "rl",
        "classPath": "Minecraft.jar"
    }
