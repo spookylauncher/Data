@@ -1,9 +1,9 @@
 {
   "jre": [
       {
-        "vendor": "zulu",
+        "vendor": "Azul Systems, Inc.",
         "majorVersion": 8,
-        "fullName": "8u422b05",
+        "fullVersion": "1.8.0_422",
         "downloads": {
             "windows": "https://cdn.azul.com/zulu/bin/zulu8.80.0.17-ca-jre8.0.422-win_x64.zip",
             "linux": "https://cdn.azul.com/zulu/bin/zulu8.80.0.17-ca-jre8.0.422-linux_x64.zip",
@@ -12,9 +12,9 @@
       },
 
       {
-        "vendor": "zulu",
+        "vendor": "Azul Systems, Inc.",
         "majorVersion": 17,
-        "fullName": "17.0.12+7",
+        "fullVersion": "17.0.12",
         "downloads": {
             "windows": "https://cdn.azul.com/zulu/bin/zulu17.52.17-ca-jre17.0.12-win_x64.zip",
             "linux": "https://cdn.azul.com/zulu/bin/zulu17.52.17-ca-jre17.0.12-linux_x64.zip",
