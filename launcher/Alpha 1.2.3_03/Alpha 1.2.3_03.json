@@ -8,7 +8,7 @@
    },
    "previewsCount": 2,
    "categories": [ "alpha" ],
-   "labels": [ "en" ],
+   "labels": [ "ru" ],
    "launchData": {
        "main": "rl",
        "classPath": "Minecraft.jar"
