@@ -10,7 +10,7 @@
    "categories": [ "release", "error" ],
    "labels": [ "ru" ],
    "launchData": {
-       "main": "Start",
+       "main": "com.jdotsoft.jarloader.ERR422Loader",
        "classPath": "Minecraft.jar"
    }
 }
