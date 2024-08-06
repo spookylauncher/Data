@@ -9,9 +9,9 @@
    "previewsCount": 2,
    "categories": [ "alpha" ],
    "labels": [ "ru" ],
-   "majorVersion": 17,
    "launchData": {
        "main": "Start",
+       "majorVersion": 17,
        "classPath": "Minecraft.jar"
    }
 }
