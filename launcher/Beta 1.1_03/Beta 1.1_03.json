@@ -1,0 +1,16 @@
+{
+  "name": "Beta 1.1_03",
+  "developer": "Dudnak",
+  "releaseDate": "2022/01/02",
+  "articles": {
+      "fallback": "https://minecraftcreepypasta.fandom.com/wiki/Mystical_Versions(L3b3devd1m_version)",
+      "ru": "https://minecraftcreepypasta.fandom.com/ru/wiki/Minecraft_Free_(Beta_1.1_03)"
+   },
+   "previewsCount": 2,
+   "categories": [ "beta" ],
+   "labels": [ "ru" ],
+   "launchData": {
+       "main": "Start",
+       "classPath": "Minecraft.jar"
+   }
+}
