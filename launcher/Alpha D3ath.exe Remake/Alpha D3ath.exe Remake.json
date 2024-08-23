@@ -1,0 +1,16 @@
+{
+  "name": "Alpha D3ath.exe Remake",
+  "developer": "Dudnak",
+  "releaseDate": "2021/12/12",
+  "articles": {
+      "fallback": "https://minecraftcreepypasta.fandom.com/wiki/Mystical_Versions(L3b3devd1m_version)",
+      "ru": "https://minecraftcreepypasta.fandom.com/ru/wiki/Alpha_D3ATH.exe_remastered"
+   },
+   "previewsCount": 2,
+   "categories": [ "alpha" ],
+   "labels": [ "ru" ],
+   "launchData": {
+       "main": "Start",
+       "classPath": "Minecraft.jar"
+   }
+}

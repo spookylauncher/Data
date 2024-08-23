@@ -1,0 +1,16 @@
+{
+  "name": "ERROR633",
+  "developer": "Dudnak",
+  "releaseDate": "2020/01/29",
+  "articles": {
+      "fallback": "https://minecraftcreepypasta.fandom.com/wiki/Error_633",
+      "ru": "https://minecraftcreepypasta.fandom.com/ru/wiki/ERROR_633"
+   },
+   "previewsCount": 2,
+   "categories": [ "alpha", "error" ],
+   "labels": [ "ru" ],
+   "launchData": {
+       "main": "Start",
+       "classPath": "Minecraft.jar"
+   }
+}
