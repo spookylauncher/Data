@@ -1,7 +1,25 @@
 {
   "manifestVersion": 0,
   "repo": "https://raw.githubusercontent.com/Onran0/SpookyLauncher/main/launcher/",
-  "versions": [ "Alpha 1.2.3_03", "Error422" ],
+  
+  "versions": [
+    "Alpha 1.2.3_03",
+    "Error422",
+    "Alpha 1.1.2_01",
+    "Alpha 1.2.6_02",
+    "Alpha 1.2.6_03",
+    "Alpha D3ath.exe Remake",
+    "Alpha E.R.R.O.R",
+    "Beta 1.0.1",
+    "Beta 1.1_03",
+    "Beta 1.2_02",
+    "Beta 1.7.4-Preview",
+    "Black Edition Remastered",
+    "ERROR633",
+    "ERROR845",
+    "Hex 3"
+  ],
+  
   "libsCollections": [
       {
          "name": "LWJGL 2.9.3",
