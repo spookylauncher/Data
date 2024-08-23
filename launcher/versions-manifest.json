@@ -5,12 +5,19 @@
   "libsCollections": [
       {
          "name": "LWJGL 2.9.3",
-         "libraries": [ "lwjgl_core-2.9.3", "lwjgl_util-2.9.3", "lwjgl_platform-2.9.3" ]
+         "libraries": [
+            { "name": "lwjgl_core", "version": "2.9.3" },
+            { "name": "lwjgl_util", "version": "2.9.3" },
+            { "name": "lwjgl_platform", "version": "2.9.3" }
+         ]
       },
 
       {
           "name": "JInput 2.0.9",
-          "libraries": [ "jinput_core-2.0.9", "jinput_platform-2.0.7" ]
+          "libraries": [
+             { "name": "jinput_core", "version": "2.0.9" },
+             { "name": "jinput_platform", "version": "2.0.7" }
+          ]
       },
 
       {
