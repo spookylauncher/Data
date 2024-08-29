@@ -69,7 +69,7 @@
 
       {
          "name": "jinput_core",
-         "packet": "net.java.jinput",
+         "packet": "net.java.games.input",
          "version": "2.0.9",
          "jar": {
             "downloadUrl": "https://repo1.maven.org/maven2/net/java/jinput/jinput/2.0.9/jinput-2.0.9.jar"
@@ -78,7 +78,7 @@
 
       {
          "name": "jinput_platform",
-         "packet": "net.java.jinput",
+         "packet": "net.java.games.input",
          "version": "2.0.7",
          "isNative": true,
          "jar": {
