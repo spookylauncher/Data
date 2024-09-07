@@ -7,10 +7,10 @@
       "ru": "https://minecraftcreepypasta.fandom.com/ru/wiki/Error_422"
    },
    "previewsCount": 2,
+   "singleJar": true,
    "categories": [ "release", "error" ],
    "labels": [ "ru" ],
    "launchData": {
-       "main": "com.jdotsoft.jarloader.ERR422Loader",
-       "classPath": "Minecraft.jar"
+       "main": "com.jdotsoft.jarloader.ERR422Loader"
    }
 }
