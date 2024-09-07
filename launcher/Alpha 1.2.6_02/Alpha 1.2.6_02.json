@@ -6,11 +6,8 @@
       "fallback": "https://minecraftcreepypasta.fandom.com/wiki/Bluebrine_or_version_1.2.6_02",
       "ru": "https://minecraftcreepypasta.fandom.com/ru/wiki/Bluebrine_или_версия_1.2.6_02"
    },
+   "singleJar": true,
    "previewsCount": 2,
    "categories": [ "alpha" ],
-   "labels": [ "ru" ],
-   "launchData": {
-       "main": "Start",
-       "classPath": "Minecraft.jar"
-   }
+   "labels": [ "ru" ]
 }

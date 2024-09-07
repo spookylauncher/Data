@@ -6,12 +6,8 @@
       "fallback": "https://minecraftcreepypasta.fandom.com/wiki/Mystical_Versions(L3b3devd1m_version)",
       "ru": "https://minecraftcreepypasta.fandom.com/ru/wiki/Все_мистические_веpсии"
    },
+   "javaMajorVersion": 17,
    "previewsCount": 2,
    "categories": [ "alpha" ],
-   "labels": [ "ru" ],
-   "launchData": {
-       "main": "Start",
-       "majorVersion": 17,
-       "classPath": "Minecraft.jar"
-   }
+   "labels": [ "ru" ]
 }

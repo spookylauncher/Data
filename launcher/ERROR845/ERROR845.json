@@ -8,9 +8,5 @@
    },
    "previewsCount": 2,
    "categories": [ "beta", "error" ],
-   "labels": [ "ru" ],
-   "launchData": {
-       "main": "Start",
-       "classPath": "Minecraft.jar"
-   }
+   "labels": [ "ru" ]
 }
