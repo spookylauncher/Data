@@ -1,0 +1,8 @@
+{
+    "mirrors": [
+        {
+            "name": "GitHub",
+            "repo": "https://raw.githubusercontent.com/Onran0/SpookyLauncher/main"
+        }
+    ]
+}
