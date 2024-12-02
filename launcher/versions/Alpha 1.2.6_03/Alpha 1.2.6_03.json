@@ -1,0 +1,13 @@
+{
+  "name": "Alpha 1.2.6_03",
+  "developer": "Dudnak",
+  "releaseDate": "2020/05/11",
+  "articles": {
+      "fallback": "https://minecraftcreepypasta.fandom.com/wiki/Alpha_1.2.6_03",
+      "ru": "https://minecraftcreepypasta.fandom.com/ru/wiki/Alpha_1.2.6_03"
+   },
+   "singleJar": true,
+   "previewsCount": 2,
+   "categories": [ "alpha" ],
+   "labels": [ "ru" ]
+}
