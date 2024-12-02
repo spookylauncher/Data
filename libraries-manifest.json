@@ -1,0 +1,147 @@
+{
+  "libsCollections": [
+      {
+          "name": "Paulscode Soundsystem",
+          "libraries": [
+              { "name": "jutils", "version": "1.0.0" },
+              { "name": "paulscode_soundsystem", "version": "20120107" },
+              { "name": "library_java_sound", "version": "20101123" },
+              { "name": "library_lwjgl_openal", "version": "20100824" },
+              { "name": "codec_wav", "version": "20101023" },
+              { "name": "codec_jorbis", "version": "20230120" }
+          ]
+      },
+    
+      {
+         "name": "LWJGL 2.9.3",
+         "libraries": [
+            { "name": "lwjgl_core", "version": "2.9.3" },
+            { "name": "lwjgl_util", "version": "2.9.3" },
+            { "name": "lwjgl_platform", "version": "2.9.3" }
+         ]
+      },
+
+      {
+          "name": "JInput 2.0.9",
+          "libraries": [
+             { "name": "jinput_core", "version": "2.0.9" },
+             { "name": "jinput_platform", "version": "2.0.7" }
+          ]
+      },
+
+      {
+          "name": "BetaKit",
+          "collections": [ "LWJGL 2.9.3", "JInput 2.0.9", "Paulscode Soundsystem" ]
+      }
+  ],
+  "libraries": [
+      {
+          "name": "lwjgl_core",
+          "packet": "org.lwjgl",
+          "version": "2.9.3",
+          "jar": {
+              "downloadUrl": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl/2.9.3/lwjgl-2.9.3.jar"
+          }
+      },
+
+      {
+          "name": "lwjgl_util",
+          "packet": "org.lwjgl.util",
+          "version": "2.9.3",
+          "jar": {
+              "downloadUrl": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl_util/2.9.3/lwjgl_util-2.9.3.jar"
+          }
+      },
+
+      {
+          "name": "lwjgl_platform",
+          "packet": "org.lwjgl",
+          "version": "2.9.3",
+          "isNative": true,
+          "jar": {
+              "downloadUrls": {
+                  "windows": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-windows.jar",
+                  "linux": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-linux.jar",
+                  "macos": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-osx.jar"
+              }
+          }
+      },
+
+      {
+         "name": "jinput_core",
+         "packet": "net.java.games.input",
+         "version": "2.0.9",
+         "jar": {
+            "downloadUrl": "https://repo1.maven.org/maven2/net/java/jinput/jinput/2.0.9/jinput-2.0.9.jar"
+         }
+      },
+
+      {
+         "name": "jinput_platform",
+         "packet": "net.java.games.input",
+         "version": "2.0.7",
+         "isNative": true,
+         "jar": {
+            "downloadUrls": {
+                "windows": "https://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.7/jinput-platform-2.0.7-natives-windows.jar",
+                "linux": "https://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.7/jinput-platform-2.0.7-natives-linux.jar",
+                "macos": "https://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.7/jinput-platform-2.0.7-natives-osx.jar"
+            }
+         }
+      },
+
+      {
+          "name": "paulscode_soundsystem",
+          "packet": "paulscode.sound",
+          "version": "20120107",
+          "jar": {
+             "downloadUrl": "https://github.com/Onran0/SpookyLauncher/raw/main/launcher/libraries/soundsystem.jar"
+          }
+      },
+
+       {
+            "name": "jutils",
+            "packet": "net.java.games.util",
+            "version": "1.0.0",
+            "jar": {
+               "downloadUrl": "https://github.com/Onran0/SpookyLauncher/raw/main/launcher/libraries/jutils-1.0.0.jar"
+            }
+        },
+
+      {
+          "name": "codec_jorbis",
+          "packet": "paulscode.sound.codecs",
+          "version": "20230120",
+          "jar": {
+             "downloadUrl": "https://github.com/Onran0/SpookyLauncher/raw/main/launcher/libraries/codecjorbis.jar"
+          }
+      },
+
+      {
+          "name": "codec_wav",
+          "packet": "paulscode.sound.codecs",
+          "version": "20101023",
+          "jar": {
+             "downloadUrl": "https://github.com/Onran0/SpookyLauncher/raw/main/launcher/libraries/codecwav.jar"
+          }
+      },
+
+      {
+          "name": "library_java_sound",
+          "packet": "paulscode.sound.libraries",
+          "version": "20101123",
+          "jar": {
+             "downloadUrl": "https://github.com/Onran0/SpookyLauncher/raw/main/launcher/libraries/libraryjavasound.jar"
+          }
+      },
+
+      {
+          "name": "library_lwjgl_openal",
+          "packet": "paulscode.sound.libraries",
+          "version": "20100824",
+          "jar": {
+             "downloadUrl": "https://github.com/Onran0/SpookyLauncher/raw/main/launcher/libraries/librarylwjglopenal.jar"
+          }
+      },
+  ]
+}

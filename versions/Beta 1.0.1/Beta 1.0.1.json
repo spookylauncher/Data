@@ -1,0 +1,13 @@
+{
+  "name": "Beta 1.0.1",
+  "developer": "Dudnak",
+  "releaseDate": "2020/11/07",
+  "articles": {
+      "fallback": "https://minecraftcreepypasta.fandom.com/wiki/Beta_1.0.1",
+      "ru": "https://minecraftcreepypasta.fandom.com/ru/wiki/Beta_1.0.1"
+   },
+   "singleJar": true,
+   "previewsCount": 2,
+   "categories": [ "alpha" ],
+   "labels": [ "ru" ]
+}
