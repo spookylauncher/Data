@@ -95,7 +95,7 @@
           "packet": "paulscode.sound",
           "version": "20120107",
           "jar": {
-             "downloadUrl": "https://github.com/Onran0/SpookyLauncher/raw/main/launcher/libraries/soundsystem.jar"
+             "downloadUrl": "https://raw.githubusercontent.com/spookylauncher/Data/refs/heads/main/libraries/soundsystem.jar"
           }
       },
 
@@ -104,7 +104,7 @@
             "packet": "net.java.games.util",
             "version": "1.0.0",
             "jar": {
-               "downloadUrl": "https://github.com/Onran0/SpookyLauncher/raw/main/launcher/libraries/jutils-1.0.0.jar"
+               "downloadUrl": "https://raw.githubusercontent.com/spookylauncher/Data/refs/heads/main/libraries/jutils-1.0.0.jar"
             }
         },
 
@@ -113,7 +113,7 @@
           "packet": "paulscode.sound.codecs",
           "version": "20230120",
           "jar": {
-             "downloadUrl": "https://github.com/Onran0/SpookyLauncher/raw/main/launcher/libraries/codecjorbis.jar"
+             "downloadUrl": "https://raw.githubusercontent.com/spookylauncher/Data/refs/heads/main/libraries/codecjorbis.jar"
           }
       },
 
@@ -122,7 +122,7 @@
           "packet": "paulscode.sound.codecs",
           "version": "20101023",
           "jar": {
-             "downloadUrl": "https://github.com/Onran0/SpookyLauncher/raw/main/launcher/libraries/codecwav.jar"
+             "downloadUrl": "https://raw.githubusercontent.com/spookylauncher/Data/refs/heads/main/libraries/codecwav.jar"
           }
       },
 
@@ -131,7 +131,7 @@
           "packet": "paulscode.sound.libraries",
           "version": "20101123",
           "jar": {
-             "downloadUrl": "https://github.com/Onran0/SpookyLauncher/raw/main/launcher/libraries/libraryjavasound.jar"
+             "downloadUrl": "https://raw.githubusercontent.com/spookylauncher/Data/refs/heads/main/libraries/libraryjavasound.jar"
           }
       },
 
@@ -140,7 +140,7 @@
           "packet": "paulscode.sound.libraries",
           "version": "20100824",
           "jar": {
-             "downloadUrl": "https://github.com/Onran0/SpookyLauncher/raw/main/launcher/libraries/librarylwjglopenal.jar"
+             "downloadUrl": "https://raw.githubusercontent.com/spookylauncher/Data/refs/heads/main/libraries/librarylwjglopenal.jar"
           }
       },
   ]
