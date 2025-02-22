@@ -30,6 +30,16 @@
       },
 
       {
+          "name": "OW2 Asm 9.7.1",
+          "libraries": [
+              { "name": "asm", "version": "9.7.1" },
+              { "name": "asm-util", "version": "9.7.1" },
+              { "name": "asm-tree", "version": "9.7.1" },
+              { "name": "asm-commons", "version": "9.7.1" },
+          ]
+      },
+
+      {
           "name": "BetaKit",
           "collections": [ "LWJGL 2.9.3", "JInput 2.0.9", "Paulscode Soundsystem" ]
       }
@@ -143,5 +153,41 @@
              "downloadUrl": "https://raw.githubusercontent.com/spookylauncher/Data/refs/heads/main/libraries/librarylwjglopenal.jar"
           }
       },
+
+      {
+           "name": "asm",
+           "packet": "org.objectweb.asm",
+           "version": "9.7.1",
+           "jar": {
+               "downloadUrl": "https://repo1.maven.org/maven2/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+           }
+      },
+
+      {
+           "name": "asm-util",
+           "packet": "org.objectweb.asm.util",
+           "version": "9.7.1",
+           "jar": {
+               "downloadUrl": "https://repo1.maven.org/maven2/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+           }
+      },
+
+      {
+           "name": "asm-tree",
+           "packet": "org.objectweb.asm.tree",
+           "version": "9.7.1",
+           "jar": {
+               "downloadUrl": "https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+           }
+      },
+
+      {
+           "name": "asm-commons",
+           "packet": "org.objectweb.asm.commons",
+           "version": "9.7.1",
+           "jar": {
+               "downloadUrl": "https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+           }
+      }
   ]
 }
