@@ -40,8 +40,13 @@
       },
 
       {
+          "name": "SpookyLauncher Wrapper",
+          "collections": [ "OW2 Asm 9.7.1" ]
+      }
+
+      {
           "name": "BetaKit",
-          "collections": [ "LWJGL 2.9.3", "JInput 2.0.9", "Paulscode Soundsystem" ]
+          "collections": [ "LWJGL 2.9.3", "JInput 2.0.9", "Paulscode Soundsystem", "SpookyLauncher Wrapper" ]
       }
   ],
   "libraries": [
