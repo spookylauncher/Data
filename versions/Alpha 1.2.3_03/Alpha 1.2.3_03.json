@@ -10,6 +10,7 @@
    "categories": [ "alpha" ],
    "labels": [ "ru" ],
    "launchData": {
-       "main": "rl"
+       "main": "rl",
+       "gameArgs": "--tdrClass \"net.minecraft.pv.wq\""
    }
 }
