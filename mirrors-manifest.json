@@ -2,7 +2,7 @@
     "mirrors": [
         {
             "name": "GitHub",
-            "repo": "https://raw.githubusercontent.com/Onran0/SpookyLauncher/main"
+            "repo": "https://raw.githubusercontent.com/spookylauncher/Data/refs/heads/main"
         }
     ]
 }
