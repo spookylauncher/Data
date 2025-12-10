@@ -1,0 +1,143 @@
+Spooky Launcher Central Data
+
+Copyright (c) 2025 Spooky Launcher Central Data
+
+E-mail: spookylaunch@gmail.com
+Website: https://spookylauncher.github.io
+
+This project is distributed under the license terms specified in the LICENSE file
+
+---
+
+This product includes IBXM Library software components developed by Martin Cameron
+
+The software components specified above are licensed to you under a copy of which is available at IBXM Library License.txt
+
+Portions Сopyright (c) 2007 Martin Cameron
+
+---
+
+---
+
+This product includes J-Ogg software components developed by Tor-Einar Jarnbjo, http://www.j-ogg.de
+
+The software components specified above are licensed to you under a copy of which is available at J-Ogg License.txt
+
+Portions Сopyright (c) 2007 Tor-Einar Jarnbjo
+
+---
+
+---
+
+This product includes JOrbis software components developed by ymnk, JCraft Inc., http://www.jcraft.com/jorbis/
+
+The software components specified above are licensed to you under a copy of which is available at JOrbis License.txt
+
+Portions Сopyright (c) 2001 ymnk, JCraft Inc.
+
+---
+
+---
+
+This product includes JSpeex software components developed by Wimba S.A. & Jean-Marc Valin, https://jspeex.sourceforge.net/
+
+The software components specified above are licensed to you under a copy of which is available at JSpeex License.txt
+
+Portions Сopyright (c) 1999 Wimba S.A.
+Portions Copyright (c) 2002 Jean-Marc Valin 
+
+---
+
+---
+
+This product includes JOrbis software components developed by Lightweight Java Game Library Project, https://www.lwjgl.org
+
+The software components specified above are licensed to you under a copy of which is available at LWJGL License.txt
+
+Portions Copyright (c) 2002 Lightweight Java Game Library Project
+
+---
+
+---
+
+This product includes CodecIBXM software components developed by Martin Cameron & Paul Lamb, http://www.geocities.com/sunet2000/ & http://www.paulscode.com
+
+The software components specified above are licensed to you under a copy of which is available at SoundSystem CodecIBXM License.txt
+
+Portions Copyright (c) 2007, Martin Cameron
+Portions Copyright (c) 2014, Paul Lamb
+
+---
+
+---
+
+This product includes CodecJOgg software components developed by Tor-Einar Jarnbjo & Paul Lamb, http://www.j-ogg.de & http://www.paulscode.com
+
+The software components specified above are licensed to you under a copy of which is available at SoundSystem CodecJOgg License.txt
+
+Portions Copyright (c) 2007, Tor-Einar Jarnbjo
+Portions Copyright (c) 2014, Paul Lamb
+
+---
+
+---
+
+This product includes CodecJSpeex software components developed by Wimba S.A. & Jean-Marc Valin & Paul Lamb, https://jspeex.sourceforge.net/ & http://www.paulscode.com
+
+The software components specified above are licensed to you under a copy of which is available at SoundSystem CodecJSpeex License.txt
+
+Portions Сopyright (c) 1999 Wimba S.A.
+Portions Copyright (c) 2002 Jean-Marc Valin 
+Portions Copyright (c) 2014, Paul Lamb
+
+---
+
+---
+
+This product includes CodecWav software components developed by Paul Lamb, http://www.paulscode.com
+
+The software components specified above are licensed to you under a copy of which is available at SoundSystem CodecWav License.txt
+
+Portions Copyright (c) 2014, Paul Lamb
+
+---
+
+---
+
+This product includes SoundSystem LibraryJavaSound software components developed by Paul Lamb, http://www.paulscode.com
+
+The software components specified above are licensed to you under a copy of which is available at SoundSystem LibraryJavaSound License.txt
+
+Portions Copyright (c) 2014, Paul Lamb
+
+---
+
+---
+
+This product includes SoundSystem LibraryLWJGLOpenAL software components developed by Paul Lamb, http://www.paulscode.com
+
+The software components specified above are licensed to you under a copy of which is available at SoundSystem LibraryLWJGLOpenAL License.txt
+
+Portions Copyright (c) 2014, Paul Lamb
+
+---
+
+---
+
+This product includes SoundSystem software components developed by Paul Lamb, http://www.paulscode.com
+
+The software components specified above are licensed to you under a copy of which is available at SoundSystem License.txt
+
+Portions Copyright (c) 2014, Paul Lamb
+
+---
+
+---
+
+This product includes SoundSystemUtils software components developed by Paul Lamb, http://www.paulscode.com
+
+The software components specified above are licensed to you under a copy of which is available at SoundSystemUtils License.txt
+
+Portions Copyright (c) 2014, Paul Lamb
+
+---
